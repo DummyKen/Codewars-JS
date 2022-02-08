@@ -9,4 +9,5 @@ My codewars solutions(JS version)
 9/2/22 |[Calculate BMI](https://www.codewars.com/kata/57a429e253ba3381850000fb/solutions/javascript)|8|[Solution](https://github.com/DummyKen/Codewars-JS/blob/main/8kyu/bmi.js)
 9/2/22 |[Reduce but grow](https://www.codewars.com/kata/57f780909f7e8e3183000078/solutions/javascript)|8|[Solution](https://github.com/DummyKen/Codewars-JS/blob/main/8kyu/reduce_but_grow.js)
 9/2/22 |[Counting Sheep](https://www.codewars.com/kata/55d24f55d7dd296eb9000030/javascript)|8|[Solution](https://github.com/DummyKen/Codewars-JS/blob/main/8kyu/counting_sheep.js)
+9/2/22|[Is this a triangle](https://www.codewars.com/kata/56606694ec01347ce800001b/train/javascript)|7|[Solution](https://github.com/DummyKen/Codewars-JS/blob/main/8kyu/triangle.js)
 
