@@ -1,5 +1,6 @@
 # Codewars-JS
 My codewars solutions(JS version)
+>Note: wont be adding *8kyu* solutions anymore
 
 |Date   |Kata   |Difficulty(**Kyu**)   |Solution |
 |---|---|---|---|
